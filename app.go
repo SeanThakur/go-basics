@@ -1,5 +1,9 @@
 package main
 
+import (
+	"seanThakur.com/app/calculator"
+)
+
 func main() {
 	// 1. Profite calculator func
 	// profiteCalculator()
@@ -13,4 +17,6 @@ func main() {
 	// listAndMap()
 	// 6. Function deep dive
 	// funcDeepDive()
+	// 7. Price Calculator project
+	calculator.Calculator()
 }
